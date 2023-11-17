@@ -1,0 +1,54 @@
+body {
+    background-color: beige;
+}
+h1 {
+    text-align: center;
+    background-color: aqua;
+    border-radius: 30px;
+    margin: auto;
+    width: 15%;
+}
+h1:hover {
+
+    background-color: blue;
+    border-radius: 30px;
+}
+
+p {
+    text-align: center;
+    background-color: aqua;
+    scale: 110%;
+    margin: auto;
+    width: 60%;
+    border-radius: 8px;
+}
+ul {
+    text-align: center;
+    background-color: aqua;
+    scale: 110%;
+    margin: auto;
+    width: 58%;}
+
+#imagem1{
+    width: 10px;
+}
+#imagem2{
+    width: 18px;
+}
+#imagem3{
+    width: 27px;
+}
+#formato2 {
+    width: 40%;
+}
+#formato3 {
+    width: 40%;
+}
+a {
+    color: black;
+}
+a:hover {
+    color: black;
+    background-color: blue;
+    border-radius: 3px;
+}
